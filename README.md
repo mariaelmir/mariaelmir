@@ -24,6 +24,8 @@
 - Personal website [link](https://www.mariaelmir)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/mariaelmir)
 - 123
+- 456
+- 789
 
 <br><br>
 
