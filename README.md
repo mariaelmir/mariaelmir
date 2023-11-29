@@ -17,8 +17,9 @@
 
 <br>
 
+- Tech and life of a programmer
 - A passionate Self-taught Front-end developer
-- Love to coding
+- Love to coding , travel and lifstyle
 - Currently learning Web Development by Self
 - Personal website [link](https://www.mariaelmir)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/mariaelmir)
